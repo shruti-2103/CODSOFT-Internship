@@ -35,6 +35,18 @@ A modern landing page built using **HTML, CSS, and JavaScript**.
 
 ---
 
+## ✅ Task 3 – Calculator Web App
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
+
+**Features:**
+- Basic arithmetic operations (+, −, ×, ÷)
+- Clean and user-friendly interface
+- Responsive design
+- Interactive buttons
+- Real-time calculation
+
+
+
 ## 📌 Upcoming Tasks
 - More tasks will be added here.
 
